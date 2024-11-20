@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/bluevisor-user-guide',
     siteUrl: 'https://naver.com',
     gaTrackingId: null,
     trailingSlash: false,
