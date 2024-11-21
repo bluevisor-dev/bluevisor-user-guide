@@ -1,7 +1,7 @@
 ---
 title: "테미 하드웨어"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "테미 하드웨어 기능 소개"
+metaDescription: "테미 하드웨어 기능 소개 페이지입니다."
 ---
 
 주로 사용되는 기능에 대해서 설명합니다.
@@ -20,7 +20,8 @@ metaDescription: "This is the meta description for this page"
 
 ## 2. 우측 원형 버튼 및 화면 메뉴
 - **아이콘 설명**
-- ![메뉴 아이콘](temi-004.png)
+  ![메뉴 아이콘](temi-004.png)
+
 **상단 바 (Top Bar)**
   - 🔋 배터리 /
   배터리 상태 또는 충전 상태를 표시합니다.

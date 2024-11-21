@@ -116,6 +116,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         docsLocation
+        githubUrl
       }
     }
     mdx(fields: { id: { eq: $id } }) {

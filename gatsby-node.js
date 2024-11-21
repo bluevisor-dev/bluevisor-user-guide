@@ -9,13 +9,6 @@ const config = require('./config');
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  // createRedirect({
-  //   fromPath: '/home',
-  //   toPath: '/introduction',
-  //   isPermanent: true,
-  //   redirectInBrowser: true,
-  // });
-
   return new Promise((resolve, reject) => {
     resolve(
       graphql(

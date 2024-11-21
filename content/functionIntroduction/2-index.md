@@ -1,7 +1,7 @@
 ---
-title: "테미 모바일"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "테미 센터 (PC)"
+metaTitle: "테미 센터 기능 소개"
+metaDescription: "테미 센터 기능 소개 페이지입니다."
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
