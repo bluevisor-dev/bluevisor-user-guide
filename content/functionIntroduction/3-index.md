@@ -1,5 +1,5 @@
 ---
-title: "테미 모바일"
+title: "테미 모바일 [업데이트 예정]"
 metaTitle: "테미 모바일 기능 소개"
 metaDescription: "테미 모바일 기능 소개 페이지입니다."
 ---

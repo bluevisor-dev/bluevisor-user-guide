@@ -1,5 +1,5 @@
 ---
-title: "테미 센터 (PC)"
+title: "테미 센터 PC [업데이트 예정]"
 metaTitle: "테미 센터 기능 소개"
 metaDescription: "테미 센터 기능 소개 페이지입니다."
 ---
