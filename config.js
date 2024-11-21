@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://highbuff.com/intro/img/rrt_logo.png',
-    logoLink: 'https://bluevisor-dev.github.io/bluevisor-user-guide/activate', // 왼쪽 상단 링크
+    logoLink: 'https://bluevisor-dev.github.io/bluevisor-user-guide/', // 왼쪽 상단 링크
     title:
       // "<a href='https://naver.com'><img class='img-responsive' src='https://highbuff.com/intro/img/rrt_logo.png' alt='Learn logo'/></a>",
       "테미 가이드",
