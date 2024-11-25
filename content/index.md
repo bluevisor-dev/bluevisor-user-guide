@@ -41,10 +41,10 @@ Temi와 관련하여 추가적인 문의 사항이 있으시다면 아래 연락
 - **📞 전화 문의**:  
   1855-4549 (운영 시간: 평일 오전 9시 ~ 오후 6시)  
 
-- **📋 FAQ 및 도움말 페이지**:  
+- **📋 해외 공식 FAQ 및 도움말 페이지**:  
   [Temi 지원 센터](https://www.robotemi.com/support/)  
 
-- **🌐 소셜 미디어**:  
+- **🌐 하이버프 소셜 미디어**:  
   [Instagram](https://www.instagram.com/highbuff/)  
 
 ---
