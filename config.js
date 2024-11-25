@@ -42,6 +42,7 @@ const config = {
       '/introduction', // 활성화
       '/activate',
       '/functionIntroduction',
+      '/afterService',
     ],
     collapsedNav: [
       '/functionIntroduction'
